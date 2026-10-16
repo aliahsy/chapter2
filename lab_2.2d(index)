@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ALL ABOUT ME</title>
+</head>
+<body>
+    <h1>Main Page</h1>
+    <p>Choose:</p>
+    <ul>
+        <li><a href="personal.html">Personal Details</a></li>
+        <li><a href="mytable.html">My Table</a></li>
+        <li><a href="university.html">University Information</a></li>
+    </ul>
+</body>
+</html>

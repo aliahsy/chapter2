@@ -1,0 +1,31 @@
+<table border="1".
+    <caption> WELCOME TO MY SHOP </caption>
+<tr>
+    <th> Food </th>
+    <th> Price </th>
+</tr>
+<tr>
+    <td> Nasi Goreng </td>
+    <td> RM6.50 </td>
+</tr>
+<tr>
+    <td> Nasi Ayam </td>
+    <td> RM8.50 </td>
+</tr>
+<tr>
+    <td colspan="2"> Ayam Percik Sold Out </td>
+</tr>
+<tr>
+    <td> Ayam Goreng </td>
+    <td> RM2.00 </td>
+</tr>
+<tr>
+    td> Telur Mata </td>
+    <td> RM1.50 </td>
+</tr>
+<tr>
+    <td colspan="2" align="center">
+    <img src="thankyou.jfif" alt="Thank You" width="150">
+</td>
+</tr>
+</table>

@@ -1,0 +1,18 @@
+<table border="1' width="100%'>
+<tr>
+    <td colspan="3" align="center">
+    <h2>This is the banner area</h2>
+</td>
+</tr>
+<tr>
+    <td width="20%" valign="top">
+     Navigation
+</td>
+    <td width="5%">
+    Spacer
+</td>
+    <td width="80%" valign="top">
+    Page content goes here
+</td>
+</tr>
+</table>

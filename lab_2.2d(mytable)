@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Timetable</title>
+</head>
+<body>
+    <p><a href="index.html">&larr; Back to Main Menu</a></p>
+    <h1>Class Schedule</h1>
+
+    <table border="1">
+        <caption>Semester 1 26/27 Class Timetable</caption>
+<tr>
+        <th>Day</th>
+        <th>Subject</th>
+        <th>Time</th>
+</tr>
+<tr>
+        <td>Monday</td>
+        <td>Web Development</td>
+        <td>08:00 AM - 10:00 AM</td>
+</tr>
+<tr>
+        <td>Tuesday</td>
+        <td>Mobile Application</td>
+        <td>10:00 AM - 12:00 PM</td>
+</tr>
+<tr>
+        <td>Wednesday</td>
+        <td>Artificial Intelligence (LAB)</td>
+        <td>10:00 AM - 12:00 PM</td>
+</tr>
+<tr>
+        <td>Thursday</td>
+        <td>Project Management & Professional Practices</td>
+        <td>4:00 PM - 6:00 PM</td>
+</tr>
+<tr>
+        <td>Friday</td>
+        <td>Information Security</td>
+        <td>8:00 AM - 10:00 AM</td>
+</tr>
+</table>
+</body>
+</html>
